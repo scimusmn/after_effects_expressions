@@ -1,4 +1,4 @@
-after_effects_expressions
+After Effects expressions
 =========================
 
-Snippets of After Effects expressions for video and animation manipulation
+Snippets of After Effects code for video and animation manipulation
